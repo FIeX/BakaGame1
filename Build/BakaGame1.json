@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BakaGame1.data.unityweb",
+"asmCodeUrl": "BakaGame1.asm.code.unityweb",
+"asmMemoryUrl": "BakaGame1.asm.memory.unityweb",
+"asmFrameworkUrl": "BakaGame1.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
