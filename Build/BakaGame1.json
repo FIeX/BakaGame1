@@ -5,5 +5,5 @@
 "asmMemoryUrl": "BakaGame1.asm.memory.unityweb",
 "asmFrameworkUrl": "BakaGame1.asm.framework.unityweb",
 "splashScreenStyle": "Dark",
-"backgroundColor": "#222C36"
+"backgroundColor": "#000000"
 }
